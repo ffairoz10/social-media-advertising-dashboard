@@ -12,4 +12,6 @@ A Power BI-built editorial-style quarterly analytics brief that examines the per
 * Women aged 45–60 show the lowest conversion volume (47.87M) while Men aged 45–60 show the highest (48.97M)
 
 **Preview**
+
+
 <img width="222" height="346" alt="PBIDesktop_aofQ1LMq37" src="https://github.com/user-attachments/assets/361b0399-e200-4c41-ba77-76511a9ff80c" />
