@@ -3,6 +3,8 @@ Paid Social Performance Quaterly Dashboard
 A Power BI-built editorial-style quarterly analytics brief that examines the performance of paid social media advertising across six platforms, 280 campaigns, and $2.33 billion in spending.
 ## Data Source
 **Dataset Source** Social Media Advertising (https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset/data) — Kaggle
+
+
 **Key Insights**
 * $2.33B total spend across 255,092 campaigns in 2022
 * Instagram leads ROAS at 4.01X - closely followed by Twitter (4.00X) and Facebook (3.99X)
